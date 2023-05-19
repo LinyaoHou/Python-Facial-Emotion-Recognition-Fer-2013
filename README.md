@@ -8,3 +8,5 @@ The folder 'Test' and 'Train' contain the images of people faces with 7 classes 
 The file CNN-custom-model.ipynb is python notebook file which comes with the outputs of each block (also for other ipynb files)
 
 The 'val_accuracy: ' is the final test accuracy value.
+
+Introducing slide: https://docs.google.com/presentation/d/1q1OlWCAoSwV0lIABElNJmfYzhhTgvn9KnBmVe8JksD4/edit?usp=sharing 
